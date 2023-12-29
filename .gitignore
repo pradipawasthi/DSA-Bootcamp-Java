@@ -163,3 +163,32 @@ Temporary Items
 .apdisk
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,intellij,java
+/.idea/.gitignore
+/lectures/05-first-java-program/05-first-java-program.iml
+/lectures/07-methods/07-methods.iml
+/lectures/08-arrays/08-arrays.iml
+/lectures/09-linear search/09-linear search.iml
+/lectures/10-binary search/10-binary search.iml
+/lectures/11-sorting/11-sorting.iml
+/lectures/12-strings/12-strings.iml
+/lectures/13-patterns/13-patterns.iml
+/lectures/14-recursion/14-recursion.iml
+/lectures/15-complexity/15-complexity.iml
+/lectures/16-math/16-math.iml
+/lectures/17-oop/17-oop.iml
+/lectures/18-linkedlist/18-linkedlist.iml
+/lectures/19-stacks-n-queues/19-stacks-n-queues.iml
+/lectures/20-trees/20-trees.iml
+/lectures/21-StringBuffer/21-StringBuffer.iml
+/lectures/22-large numbers/22-large numbers.iml
+/lectures/23-file handling/23-file handling.iml
+/lectures/24-heaps/24-heaps.iml
+/lectures/25-hashmaps/25-hashmaps.iml
+/lectures/26-advance-sorting/26-advance-sorting.iml
+/lectures/27-huffman-coding/27-huffman-coding.iml
+/lectures/28-sqrt-decomposition/28-sqrt-decomposition.iml
+/lectures/19-stacks-n-queues/code/code1.iml
+/.idea/DSA-Bootcamp-Java.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml

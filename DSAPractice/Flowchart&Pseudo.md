@@ -34,3 +34,36 @@ Fraz -
 
 
 
+# prime number
+
+1. start ()
+2. take input N //
+3. N ==2 <>
+4. yes, N is Prime //
+5. no, if N > 2 <>
+6. yes. take i =2  ||
+6.a. check if N%i ==0 <>
+6.b. yes, not a prime //
+6.c. no,  continue //
+7. i = i+1, repeat step 6.a. <>
+8. No, not a prime //
+
+# print all even number from 1 to 100
+1. start()
+2. take input as i = 2 ||
+3. if  i< 101 <>
+4. yes, print(i) //
+4.a. i = i+2 ||
+4.b. repeat step 3 //
+5. no , stop ()
+
+# print 1 t0 10
+1. start()
+2. take i = 1 ||
+3. if i > 10 <>
+4. yes , stop ()
+5. no,  print i //
+4. i = i+1 ||
+5. repeat step 3 //
+
+
